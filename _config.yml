@@ -31,7 +31,7 @@ github_username:  jekyll
 theme: minima
 
 minima:
-  skin: solarized-dark
+  skin: dark
 
 show_excerpts: true
 
