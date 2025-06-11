@@ -30,6 +30,19 @@ github_username:  jekyll
 # Build settings
 theme: minima
 
+minima:
+  skin: solarized-dark
+
+show_excerpts: true
+
+social_links:
+  - title: Minima Theme repository at GitHub
+    icon: github
+    url: "https://github.com/jekyll/minima"
+  - title: Jekyll at X (formerly Twitter)
+    icon: x-twitter
+    url: "https://x.com/jekyllrb"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
