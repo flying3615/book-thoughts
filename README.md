@@ -1,1 +1,1 @@
-# book-thoughts
+# book-thought
