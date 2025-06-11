@@ -4,6 +4,3 @@
 
 layout: home
 ---
-# Welcome
-
-This is my blog using the Midnight theme!
