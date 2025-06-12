@@ -23,26 +23,25 @@ description: >- # this means to ignore newlines until "baseurl:"
   欢迎来到我的读书笔记索引页。在这里，我整理了阅读各类书籍时的思考与心得，希望能与您分享知识的乐趣。
 baseurl: "/book-thoughts" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+author:
+  name: Gabriel L
+  email: "john.smith@foobar.com"
 
 
 # Build settings
-#theme: minima
 remote_theme: "jekyll/minima@1e8a445"
 
 minima:
   skin: dark
-
-show_excerpts: true
-
-social_links:
-  - title: Minima Theme repository at GitHub
-    icon: github
-    url: "https://github.com/jekyll/minima"
-  - title: Jekyll at X (formerly Twitter)
-    icon: x-twitter
-    url: "https://x.com/jekyllrb"
+  show_excerpts: true
+  social_links:
+    - title: Minima Theme repository at GitHub
+      icon: github
+      url: "https://github.com/jekyll/minima"
+    - title: Jekyll at X (formerly Twitter)
+      icon: x-twitter
+      url: "https://x.com/jekyllrb"
 
 
 # Exclude from processing.
