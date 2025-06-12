@@ -106,12 +106,12 @@ tags: [系统思维, 读书笔记, 指南]
 - **反馈回路图**：正反馈与负反馈的示意。
 - **系统陷阱示意图**：常见陷阱的结构与表现。
 
-### 系统存量、流入、流出及反馈回路示意（Mermaid）
+### 系统存量、流入、流出及反馈回路示意
 
 ```mermaid
 flowchart LR
-    Fin[流入 (Inflow)] -->|增加| Stock[存量 (Stock)]
-    Stock -->|减少| Fout[流出 (Outflow)]
+    Fin[/Input/] -->|增加| Stock[(存量)]
+    Stock -->|减少| Fout[/Output/]
     Stock -- 反馈回路 --> Fin
     Fout -- 负反馈回路 --> Stock
 ```
