@@ -1,8 +1,8 @@
 ---
 title: 《系统之美》阅读指南与笔记
-date: 2025-06-12
-categories: [读书笔记, 系统之美]
-tags: [系统思维, 读书笔记, 指南]
+date: 2025-06-11
+categories: [读书笔记]
+tags: [系统思维, 读书笔记]
 ---
 《系统之美》（Thinking in Systems）是Donella H. Meadows关于系统思维的经典著作，帮助读者理解复杂系统的结构、行为和应对方法。
 
