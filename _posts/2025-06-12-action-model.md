@@ -10,6 +10,8 @@ tags: [福格行为模型, 读书笔记]
 
 ---
 
+![行动线](/book-thoughts/assets/images/bmt.jpeg)
+
 ## 第一部分：核心概念的建立（通常是前几章）
 
 ### 阅读重点
