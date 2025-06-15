@@ -28,6 +28,8 @@ author:
   name: Gabriel L
   email: "gabriel.liu3615@gmail.com"
 
+future: true # Allow posts with future dates to be displayed
+
 
 # Build settings
 remote_theme: "jekyll/minima@1e8a445"
